@@ -53,5 +53,3 @@ This repository welcomes contributions! If you find any bugs, have suggestions f
 - We encourage you to explore, experiment, and enjoy your Python programming journey!
 
 ---
-
-Feel free to customize this template to better fit the specifics of your repository and any additional features or instructions you might have.
