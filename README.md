@@ -1,6 +1,6 @@
 ## Python-Playground: Explore Core Concepts in Python
 
-This README accompanies the Python-Playground repository, designed to be a comprehensive learning resource for anyone interested in mastering the Python programming language.
+This README accompanies the Python repository, designed to be a comprehensive learning resource for anyone interested in mastering the Python programming language.
 
 ### What You'll Find:
 
