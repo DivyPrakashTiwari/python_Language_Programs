@@ -1,4 +1,3 @@
-# Ask the user to input a number and store it in variable 'n'
 n = int(input("Enter the number: "))
 
 # Initialize variables 'i', 'j', and 'k' with values 'n', 1, and 0 respectively
